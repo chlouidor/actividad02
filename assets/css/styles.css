@@ -1,0 +1,49 @@
+
+
+.container{
+    display: flex;
+
+}
+ul:hover{
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    transition: 0.2s ease-in;
+}
+
+h1{display: flex;
+    justify-content: center;
+}
+.nav1{background-color: black; 
+     color: rgb(81, 88, 95);}
+
+.purpura{
+    background-color: blueviolet;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.red{
+    background-color: red;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.orange{
+    background-color: orange;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.blue{
+    background-color: rgb(71, 71, 226);
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.ja{background-color: black;}
+
